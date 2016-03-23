@@ -1,0 +1,11 @@
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/ApplicationException.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/ClientMessage.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/AlreadyExistsException.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/application/UserAppConfig.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/User.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/RegisterUserRequest.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/UpdateUserRequest.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/UserWebService.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/GenericResponse.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/UserService.java
+/home/suganani/workspace/UserWebService/src/main/java/com/restAPI/Status.java

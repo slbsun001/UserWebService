@@ -1,0 +1,11 @@
+connect
+
+batch
+
+module add --name=com.mysql --resources=mysql-connector-java-5.1.37-bin.jar --dependencies=javax.api,javax.transaction.api
+
+/subsystem=datasources/jdbc-driver=mysql-xa:add(driver-name=mysql-xa, driver-module-name=com.mysql, driver-xa-datasource-class-name=com.mysql.jdbc.jdbc2.optional.MysqlXADataSource)
+
+data-source add --jndi-name=java:/jboss/datasources/MySQLDS --name=MySQLDS --connection-url=jdbc:mysql://localhost:3306/myproject --driver-name=mysql-xa --user-name=sa --password=password
+
+run-batch

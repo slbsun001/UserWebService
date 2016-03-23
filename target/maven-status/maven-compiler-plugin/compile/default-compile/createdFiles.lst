@@ -1,0 +1,11 @@
+com/restAPI/UserService.class
+com/restAPI/UserWebService.class
+com/restAPI/ClientMessage.class
+com/restAPI/application/UserAppConfig.class
+com/restAPI/ApplicationException.class
+com/restAPI/GenericResponse.class
+com/restAPI/User.class
+com/restAPI/Status.class
+com/restAPI/RegisterUserRequest.class
+com/restAPI/AlreadyExistsException.class
+com/restAPI/UpdateUserRequest.class
