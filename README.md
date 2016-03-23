@@ -35,7 +35,7 @@ I run the project in eclipse.
           Payload: the details corresponding to the columns
                { "firstName" :"Mickey",
                 "lastName" :"Mouse",
-                "emailAddress" :"mmouse@wigroup.com",
+                "emailAddress" :"mmouse@disney.com",
                 "mobile":"0774383088",
                 "dateOfBirth": "22 December 2005",
                 "pinHash": "2582"}
